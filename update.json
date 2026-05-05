@@ -1,8 +1,12 @@
 {
+  "client": {
+    "name": "l2j cliente.rar",
+    "url": "https://drive.google.com/uc?export=download&id=1-W3mVsDA1ol7kCB_9EKOA-jgtcF5iMv1"
+  },
   "files": [
     {
       "path": "system/L2.ini",
-      "url": "https://github.com/viniciusduartele-ship-it/Nome-l2-atualização-/releases/download/v1.0/L2.ini"
+      "url": "https://raw.githubusercontent.com/viniciusduartele-ship-it/Nome-l2-update-/main/L2.ini"
     }
   ]
 }
